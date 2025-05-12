@@ -5,4 +5,4 @@
 fahrenheit = float(input('Insira sua temperatura em Fahrenheit: '))
 celsius = (5 * (fahrenheit - 32) / 9)
 
-print(f'Sua temperatura em {fahrenheit}ºF equivale a {celsius:.1f}Cº.')
+print(f'Sua temperatura em {fahrenheit}ºF equivale a {celsius:.1f}°C.')
